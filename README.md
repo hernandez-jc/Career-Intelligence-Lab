@@ -8,4 +8,8 @@
 
 3. [Learning Journey](docs/Learning-Journey.md)
 
-*(Additional resources will be added as the project continues to evolve.)*
+4. [Moodle Learning Environment](docs/Moodle-Learning-Environment.md)
+
+5. [Reflection and Career Planning](docs/Reflection-and-Career-Planning.md)
+
+*(Additional examples and learner resources will be added as the project continues to evolve.)*
