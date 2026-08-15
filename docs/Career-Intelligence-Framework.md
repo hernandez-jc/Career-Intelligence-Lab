@@ -4,6 +4,7 @@
 
 > Helping people make informed career decisions through self-assessment, labour market intelligence, workforce analytics, and authentic learning.
 
+![Career Intelligence Lab](../images/Career-intelligence-lab.jpg)
 ---
 
 # Why this initiative?
