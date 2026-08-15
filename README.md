@@ -2,11 +2,6 @@
 
 > **A working, ready-to-use learning product for evidence-based career exploration, career preparedness, and workforce readiness.**
 
-[![Learning Design](https://img.shields.io/badge/Focus-Learning%20Design-blue)]()
-[![Career Development](https://img.shields.io/badge/Focus-Career%20Development-teal)]()
-[![Workforce Readiness](https://img.shields.io/badge/Focus-Workforce%20Readiness-green)]()
-[![Digital Learning](https://img.shields.io/badge/Focus-Digital%20Learning-orange)]()
-
 ---
 
 ## Overview
